@@ -1,0 +1,47 @@
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\MahApps.Metro.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\MahApps.Metro.xml
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\Style.baml
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\App.baml
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\MahApps.Metro.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Interactions.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\System.Windows.Interactivity.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\MahApps.Metro.xml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\Style.baml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\App.baml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache

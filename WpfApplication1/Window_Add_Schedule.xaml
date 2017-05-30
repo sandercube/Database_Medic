@@ -1,0 +1,38 @@
+﻿<Controls:MetroWindow x:Class="WpfApplication1.Window_Add_Schedule"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"       
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="" WindowStartupLocation="CenterScreen" Background="{DynamicResource AccentColorBrush}" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow" ScrollViewer.VerticalScrollBarVisibility="Disabled" Height="400" Width="400">
+    <Controls:MetroWindow.Effect>
+        <DropShadowEffect BlurRadius="10" ShadowDepth="2" Color="#BF000000"/>
+    </Controls:MetroWindow.Effect>
+    <Grid>
+        <Button x:Name="btn_Add_Schedule" Content="Добавить" Margin="30,0,30,70" VerticalAlignment="Bottom" Height="31" Background="#FF689F38" Foreground="White" Style="{DynamicResource ButtonStyleGreen}" Cursor="Hand" Click="btn_Add_Schedule_Click"/>
+        <Button x:Name="btn_Cancel_Schedule" Content="Отмена" Margin="30,0,30,25" VerticalAlignment="Bottom" Height="31" Background="#FF689F38" Foreground="White" Style="{DynamicResource ButtonStyleGreen}" Cursor="Hand" Click="btn_Cancel_Schedule_Click"/>
+        <StackPanel Margin="0" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <TextBlock Text="Добавить расписание" Foreground="White" FontSize="18" HorizontalAlignment="Center" Margin="0"/>
+        </StackPanel>
+        <StackPanel Width="394" Height="371" Margin="0,45,0,0" VerticalAlignment="Top">
+            <StackPanel Margin="10" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                <TextBlock Foreground="White" Text="№ Врача" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                <TextBox x:Name="txt_id_doctor" Margin="15,0,20,0" Width="200" VerticalAlignment="Center" HorizontalAlignment="Right" Height="23" PreviewKeyDown="txt_id_doctor_PreviewKeyDown" PreviewTextInput="txt_id_doctor_PreviewTextInput"/>
+            </StackPanel>
+            <StackPanel Margin="30,10,10,10" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                <TextBlock Foreground="White" Text="Дата приёма" Margin="10,0,0,0" FontSize="14" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+                <DatePicker x:Name="dp_schedule" Margin="15,0,20,0" Width="200" VerticalAlignment="Center" SelectedDateFormat="Long" Height="23" PreviewTextInput="dp_schedule_PreviewTextInput" />
+            </StackPanel>
+            <StackPanel Margin="0,10,10,10" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                <TextBlock Foreground="White" Text="Время работы С:" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                <TextBox x:Name="txt_time_on" Margin="15,0,20,0" Width="200" VerticalAlignment="Center" HorizontalAlignment="Right" Height="23" PreviewTextInput="txt_time_on_PreviewTextInput"/>
+            </StackPanel>
+            <StackPanel Margin="0,10,10,10" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                <TextBlock Foreground="White" Text="Время работы ДО:" Margin="20,0,0,0" FontSize="14" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                <TextBox x:Name="txt_time_off" Margin="15,0,20,0" Width="200" VerticalAlignment="Center" HorizontalAlignment="Right" Height="23" PreviewTextInput="txt_time_off_PreviewTextInput"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Controls:MetroWindow>

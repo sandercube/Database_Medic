@@ -1,0 +1,188 @@
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+c:\users\александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Style.baml
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Александр\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\Style.baml
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\Style.baml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\Style.baml
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+F:\Флешка\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+H:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+H:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+H:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+H:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+H:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+H:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+H:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\Style.baml
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+G:\!!!МАЙ ФАЙЛ\18.08\Новая папка (2)\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\Style.baml
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\ModalWindow.g.cs
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\ModalWindow.baml
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\Window_Add_Schedule.g.cs
+E:\Курсовые проекты БГУИР\Medic_Base — копия\WpfApplication1\WpfApplication1\obj\Debug\Window_Add_Schedule.baml

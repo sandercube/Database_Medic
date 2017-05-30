@@ -1,0 +1,27 @@
+﻿<Controls:MetroWindow x:Class="WpfApplication1.ModalWindow"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"       
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="Поиск визитов пациента" WindowStartupLocation="CenterScreen" Height="155" Background="{DynamicResource AccentColorBrush}" Width="275" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+    <Controls:MetroWindow.Effect>
+        <DropShadowEffect BlurRadius="10" ShadowDepth="2" Color="#BF000000"/>
+    </Controls:MetroWindow.Effect>
+    <Grid Margin="10" AllowDrop="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="26" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock Foreground="White">Введите личный номер пациента:</TextBlock>
+        <TextBox Name="txt_search_visit" Grid.Row="1" MinWidth="250">
+        </TextBox>
+        <WrapPanel Grid.Row="2" Margin="0,20,0,0" HorizontalAlignment="Center">
+            <Button IsDefault="True" Click="Accept_Click" MinWidth="60" Margin="0,0,80,0" Background="#FF689F38" Foreground="White" FontSize="12">OK</Button>
+            <Button IsCancel="True" MinWidth="60" Margin="0" Background="#FF689F38" Foreground="White" FontSize="12">Отмена</Button>
+        </WrapPanel>
+    </Grid>
+</Controls:MetroWindow>
