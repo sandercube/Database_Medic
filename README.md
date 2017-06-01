@@ -1,5 +1,6 @@
 DataBase_Medic
 =============================
+![screenshot of sample](https://pp.userapi.com/c638322/v638322001/43455/dDe0cAGfrK0.jpg)
 
 INSTALLATION
 ------------
